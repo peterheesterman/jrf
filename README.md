@@ -1,4 +1,4 @@
-# jrf
+# jrf (JSON rust formatter)
 
 JSON formatter cli - something simple to use jsonist `https://github.com/peterheesterman/jsonist`
 
@@ -6,7 +6,7 @@ Much less useful than jq - also a lot simpler!
 
 ## Installation
 
-Cargo installed already? `cargo install jrf`.
+Cargo installed already? `cargo install jrf`
 
 If not... find out [how to install cargo!](https://doc.rust-lang.org/cargo/getting-started/installation.html)
 
@@ -15,8 +15,8 @@ If not... find out [how to install cargo!](https://doc.rust-lang.org/cargo/getti
 `jrf file_to_format.json`
 
 ```
-   // file_to_format.json
-   { "Key of an obect": ["some", "values", "in", "a", "list"] }
+ // file_to_format.json
+ { "Key of an obect": ["some", "values", "in", "a", "list"] }
 ```
 
 ## Result
