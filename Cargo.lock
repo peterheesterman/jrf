@@ -2,15 +2,15 @@
 # It is not intended for manual editing.
 [[package]]
 name = "jrf"
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
- "jsonist 0.0.1 (registry+https://github.com/rust-lang/crates.io-index)",
+ "jsonist 0.0.3 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
 name = "jsonist"
-version = "0.0.1"
+version = "0.0.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [metadata]
-"checksum jsonist 0.0.1 (registry+https://github.com/rust-lang/crates.io-index)" = "6f5923f7c773b5dd188089396cfcd02b84174c7447b1dd06fa5746ba250f8d30"
+"checksum jsonist 0.0.3 (registry+https://github.com/rust-lang/crates.io-index)" = "4b77cc3bfdb131a6a4b3c1411c0b8dc00c5a70e9fe8166bf9ffdfc25257f6f6c"
